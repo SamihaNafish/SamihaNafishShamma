@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiha Nafish Shamma</h1>
-<h3 align="center">Just completed MS in Information Systems</h3>
+<h3 align="center"> Data Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamihaNafish](https://github.com/SamihaNafish)
 
